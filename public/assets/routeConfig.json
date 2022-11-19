@@ -1,0 +1,68 @@
+[
+    {
+        "Name": "Llubí - Puig de Santa Magdalena",
+        "GpxFile": "./assets/routes/SantaMagdalena.xml",
+        "Category": "Road",  
+        "Collection": "Mallorca",
+        "Starred":"false",
+        "SlopeResolution":100,
+        "SlowExpectedSpeed": null,
+        "MediumExpectedSpeed":null,
+        "HighExpectedSpeed": null
+    },
+    {
+        "Name": "Coll de Sóller i Valldemossa",
+        "GpxFile": "./assets/routes/CollDeSoller.gpx",
+        "Category": "Road",
+        "Collection": "Mallorca",
+        "Starred":"true",
+        "SlopeResolution":100,
+        "SlowExpectedSpeed": null,
+        "MediumExpectedSpeed":null,
+        "HighExpectedSpeed": null
+    },
+    {
+        "Name": "Bonany - Petra",
+        "GpxFile": "./assets/routes/Bonany.gpx",
+        "Category": "Road",
+        "Collection": "Ermites de Mallorca",
+        "Starred":"false",
+        "SlopeResolution":50,
+        "SlowExpectedSpeed": 15,
+        "MediumExpectedSpeed":17,
+        "HighExpectedSpeed": 22
+    },
+    {
+        "Name": "Boc Gravel 2022 - 52kms",
+        "GpxFile": "./assets/routes/2022BocGravel52.gpx",
+        "Category": "Gravel",
+        "Collection": "Boc",
+        "Starred":"false",
+        "SlopeResolution":150,
+        "SlowExpectedSpeed": 18,
+        "MediumExpectedSpeed":20,
+        "HighExpectedSpeed": 23
+    },
+    {
+        "Name": "Boc Gravel 2022 - 75kms",
+        "GpxFile": "./assets/routes/2022BocGravel75.gpx",
+        "Category": "Gravel",
+        "Collection": "Boc",
+        "Starred":"false",
+        "SlopeResolution":150,
+        "SlowExpectedSpeed": 18,
+        "MediumExpectedSpeed":20,
+        "HighExpectedSpeed": 23
+    },
+    {
+        "Name": "Boc Gravel 2022 - 147kms",
+        "GpxFile": "./assets/routes/2022BocGravel147.gpx",
+        "Category": "Gravel",
+        "Collection": "Boc",
+        "Starred":"false",
+        "SlopeResolution":150,
+        "SlowExpectedSpeed": 18,
+        "MediumExpectedSpeed":20,
+        "HighExpectedSpeed": 23
+    }
+]
